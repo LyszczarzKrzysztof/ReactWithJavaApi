@@ -1,12 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
 import Film from './Film';
 
 class App extends Component{
-
-
-
   state={  
       data: [],
       name: "KrzysiekState",
